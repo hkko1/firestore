@@ -1,0 +1,4 @@
+bigQueryDatasetTemplates
+archived
+boolean
+false
