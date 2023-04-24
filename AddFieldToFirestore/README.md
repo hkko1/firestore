@@ -4,7 +4,8 @@
 * line 2: field name
 * line 3: type ( string, number, boolean )
 * line 4: data
-## Get the JSON file for firebase Admin SDK  ( [https://firebase.google.com/docs/admin/setup](https://firebase.google.com/docs/admin/setup)]
+## Get the JSON file for firebase Admin SDK  
+### ( [https://firebase.google.com/docs/admin/setup](https://firebase.google.com/docs/admin/setup)]
  * To generate a private key file for your service account:
  ```
   1. In the Firebase console, open Settings > Service Accounts.
